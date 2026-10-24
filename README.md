@@ -1,10 +1,6 @@
 # Hi, I'm Anna Gevorgyan
 
-**Data Scientist** based in Yerevan, Armenia. I work as a Data Analyst at the **Central Bank of Armenia**, building machine learning and econometric models for financial supervision.
-
-- 🎓 M.S. in Data Science in Business, Yerevan State University (GPA 19.76/20), thesis on **portfolio management with machine learning**
-- 🎓 B.S. in Informatics and Applied Mathematics, YSU, with honors
-- 🔬 Interests: machine learning, time series, LLM applications, computer vision, financial data
+**Data Scientist** based in Yerevan, Armenia.
 
 ## Featured projects
 
