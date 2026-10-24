@@ -15,7 +15,7 @@
 | [Amazon Purchases Dashboard](https://github.com/Anna-Gevorgian/amazon-purchases-dashboard) | Multi-page app on consumer purchases and demographics | Dash, Bootstrap |
 | [LSTM Stock Price Forecasting](https://github.com/Anna-Gevorgian/lstm-stock-price-forecasting) | AAPL forecasting, RMSE $1.96 | TensorFlow/Keras |
 
-**More:** [Startup success prediction](https://github.com/Anna-Gevorgian/ML-task) · [Data visualization & banking analytics](https://github.com/Anna-Gevorgian/Data-visualization) · [Medical insurance cost analysis](https://github.com/Anna-Gevorgian/Medical_insurance_cost_prediction) · [Qt / C++: Tetrix](https://github.com/Anna-Gevorgian/Tetrix), [Graphics View demo](https://github.com/Anna-Gevorgian/Qt)
+**More:** [Startup success prediction](https://github.com/Anna-Gevorgian/startup-success-prediction) · [Data visualization & banking analytics](https://github.com/Anna-Gevorgian/Data-visualization) · [Medical insurance cost analysis](https://github.com/Anna-Gevorgian/Medical_insurance_cost_prediction) · [Qt / C++: Tetrix](https://github.com/Anna-Gevorgian/Tetrix), [Graphics View demo](https://github.com/Anna-Gevorgian/Qt)
 
 ## Tools
 **Languages:** Python · SQL · R · C++
